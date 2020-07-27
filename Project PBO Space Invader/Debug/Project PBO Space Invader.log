@@ -1,0 +1,58 @@
+﻿Build started 6/20/2017 12:10:52 PM.
+     1>Project "D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Project PBO Space Invader\Project PBO Space Invader.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Project PBO Space Invader.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\SFML\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Test 1.cpp"
+         Test 1.cpp
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\player.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\player.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(11): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(11): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(20): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(23): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(26): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\projectile.h(29): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(55): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(55): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(58): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(58): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\invader.h(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(51): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(60): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(60): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(66): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(66): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(149): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(149): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(150): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(150): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(151): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\eattack.h(151): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(15): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(15): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\life.h(21): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\test 1.cpp(42): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\test 1.cpp(42): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>d:\materi kuilah\semester 2\pbo\project pbo space invader\project pbo space invader\test 1.cpp(121): warning C4101: 'evnt' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Debug\Project PBO Space Invader.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\SFML\lib" "sfml-system-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Project PBO Space Invader.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Debug\Project PBO Space Invader.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Debug\Project PBO Space Invader.lib" /MACHINE:X86 Debug\menuawal.obj
+         "Debug\Test 1.obj"
+     1>menuawal.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Project PBO Space Invader.vcxproj -> D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Debug\Project PBO Space Invader.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Debug\Project PBO Space Invader.exe;#1" /manifest "Debug\Project PBO Space Invader.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project PBO Space Invader.unsuccessfulbuild".
+         Touching "Debug\Project PBO Space Invader.lastbuildstate".
+     1>Done Building Project "D:\Materi Kuilah\Semester 2\PBO\Project PBO Space Invader\Project PBO Space Invader\Project PBO Space Invader.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.52
